@@ -1,4 +1,4 @@
-As part of the Istanbul Kodluyor project, I created the test automation for the Tobeto website following the Page Object Model design pattern for my final project in the Software Quality and Test Specialization training.
+As part of the Istanbul Kodluyor project, I created the test automation framework for the Tobeto website following the Page Object Model design pattern for my final project in the Software Quality and Test Specialization training.
 
 Project Structure
 pages: This folder contains the classes that create page objects for the pages and components, including special methods specific to those pages and components.
